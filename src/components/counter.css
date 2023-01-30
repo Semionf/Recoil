@@ -1,0 +1,22 @@
+.counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.buttonsDiv {
+  display: flex;
+}
+
+button {
+  margin-left: 20px !important;
+}
+
+.emphasize {
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+}
